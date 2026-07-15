@@ -1,4 +1,4 @@
-# README: Nifty 50 Intraday Multi-Strategy Trading System
+# Nifty 50 Intraday Multi-Strategy Trading System
 
 ## Overview
 
