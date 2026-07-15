@@ -126,5 +126,3 @@ The notebook includes interactive Plotly charts for:
 - Results are based on gross returns (no transaction costs or slippage)
 - The ensemble portfolio shows significant improvement in risk-adjusted returns
 
-
-*Note: Past performance does not guarantee future results. Always conduct your own research before implementing any trading strategy.*
